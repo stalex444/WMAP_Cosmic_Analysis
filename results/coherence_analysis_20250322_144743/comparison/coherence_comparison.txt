@@ -1,0 +1,15 @@
+Coherence Analysis Comparison: WMAP vs Planck
+==================================================
+
+WMAP Mean Coherence: 0.053534
+WMAP P-value: 0.900000
+WMAP Phi-Optimality: -0.919006
+WMAP Significant: False
+
+Planck Mean Coherence: 0.007533
+Planck P-value: 1.000000
+Planck Phi-Optimality: -1.000000
+Planck Significant: False
+
+Difference in Mean Coherence: 0.046001
+Difference in Phi-Optimality: 0.080994

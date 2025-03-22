@@ -1,0 +1,53 @@
+Information Integration Test Comparison: WMAP vs Planck
+============================================================
+
+WMAP Mean Mutual Information: 0.000000
+WMAP P-value: 1.000000
+WMAP Phi-Optimality: -0.738904
+WMAP Significant: False
+
+Planck Mean Mutual Information: 0.386781
+Planck P-value: 0.000000
+Planck Phi-Optimality: 1.000000
+Planck Significant: True
+
+Difference in Mean Mutual Information: 0.386781
+Difference in Phi-Optimality: 1.738904
+
+Segment-by-Segment Mutual Information Comparison:
+  Segments 1-2:
+    WMAP: 0.000000
+    Planck: 0.861547
+    Difference: 0.861547
+  Segments 2-3:
+    WMAP: 0.000000
+    Planck: 0.636571
+    Difference: 0.636571
+  Segments 3-4:
+    WMAP: 0.000000
+    Planck: 0.624382
+    Difference: 0.624382
+  Segments 4-5:
+    WMAP: 0.000000
+    Planck: 0.416944
+    Difference: 0.416944
+  Segments 5-6:
+    WMAP: 0.000000
+    Planck: 0.000000
+    Difference: 0.000000
+  Segments 6-7:
+    WMAP: 0.000000
+    Planck: 0.139785
+    Difference: 0.139785
+  Segments 7-8:
+    WMAP: 0.000000
+    Planck: 0.479918
+    Difference: 0.479918
+  Segments 8-9:
+    WMAP: 0.000000
+    Planck: 0.224787
+    Difference: 0.224787
+  Segments 9-10:
+    WMAP: 0.000000
+    Planck: 0.097100
+    Difference: 0.097100

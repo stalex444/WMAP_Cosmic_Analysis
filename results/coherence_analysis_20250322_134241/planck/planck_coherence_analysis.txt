@@ -1,0 +1,10 @@
+Coherence Analysis Results: Planck CMB Data
+==================================================
+
+Mean Coherence: 0.007533
+P-value: 1.000000
+Phi-Optimality: -1.000000
+Significant: False
+
+Analysis performed on: 2025-03-22 13:42:42
+Number of simulations: 1000

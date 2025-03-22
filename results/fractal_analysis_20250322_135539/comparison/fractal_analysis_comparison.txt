@@ -1,0 +1,15 @@
+Fractal Analysis Test Comparison: WMAP vs Planck
+==================================================
+
+WMAP Hurst Exponent: 0.936942
+WMAP P-value: 0.000000
+WMAP Phi-Optimality: 0.873883
+WMAP Significant: True
+
+Planck Hurst Exponent: 0.657403
+Planck P-value: 0.240000
+Planck Phi-Optimality: 0.314805
+Planck Significant: False
+
+Difference in Hurst Exponent: 0.279539
+Difference in Phi-Optimality: 0.559078

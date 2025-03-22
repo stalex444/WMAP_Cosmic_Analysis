@@ -1,0 +1,12 @@
+Golden Ratio Correlation Comparison: WMAP vs Planck
+=================================================
+
+WMAP Golden Ratio Correlation: 0.9582
+WMAP P-value: 0.0000
+WMAP Significant: True
+
+Planck Golden Ratio Correlation: 0.9955
+Planck P-value: 0.0000
+Planck Significant: True
+
+Difference in correlation: 0.0373

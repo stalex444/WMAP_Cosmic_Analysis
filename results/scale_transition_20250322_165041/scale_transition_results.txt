@@ -1,0 +1,29 @@
+Scale Transition Test Results
+==================================================
+
+WMAP Number of Transitions: 14
+WMAP P-value: 0.200000
+WMAP Phi-Optimality: 0.519007
+WMAP Significant: False
+WMAP Golden Ratio Alignment: 0.392884
+
+Planck Number of Transitions: 1109
+Planck P-value: 0.333333
+Planck Phi-Optimality: 0.453587
+Planck Significant: False
+Planck Golden Ratio Alignment: 0.378593
+
+Comparison
+--------------------------------------------------
+WMAP vs Planck Transitions: 14 vs 1109
+WMAP vs Planck P-value: 0.200000 vs 0.333333
+WMAP vs Planck Phi-Optimality: 0.519007 vs 0.453587
+
+Execution Information
+--------------------------------------------------
+Total execution time: 2.71 seconds
+Number of simulations: 10
+Window size: 10
+Initial clusters: 3
+Smoothing applied: False
+Detrending applied: False

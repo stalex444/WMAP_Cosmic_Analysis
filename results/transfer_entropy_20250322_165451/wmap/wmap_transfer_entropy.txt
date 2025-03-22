@@ -1,0 +1,39 @@
+Transfer Entropy Test Results: WMAP CMB Data
+==================================================
+
+Average Transfer Entropy: -0.326654
+P-value: 0.000000
+Phi-Optimality: 0.930800
+Significant: True
+
+Transfer Entropy Between Scales:
+  Scale 1 → Scale 2: 0.000000
+  Scale 1 → Scale 3: 0.000000
+  Scale 1 → Scale 4: -0.500000
+  Scale 1 → Scale 5: -0.594361
+  Scale 2 → Scale 1: -0.844361
+  Scale 2 → Scale 3: -0.250000
+  Scale 2 → Scale 4: 0.000000
+  Scale 2 → Scale 5: -0.250000
+  Scale 3 → Scale 1: -0.405639
+  Scale 3 → Scale 2: 0.000000
+  Scale 3 → Scale 4: -0.500000
+  Scale 3 → Scale 5: -0.500000
+  Scale 4 → Scale 1: -0.750000
+  Scale 4 → Scale 2: 0.000000
+  Scale 4 → Scale 3: -0.405639
+  Scale 4 → Scale 5: -0.344361
+  Scale 5 → Scale 1: -0.594361
+  Scale 5 → Scale 2: 0.000000
+  Scale 5 → Scale 3: -0.250000
+  Scale 5 → Scale 4: -0.344361
+
+Interpretation:
+  Low transfer entropy: Limited information flow between scales.
+  This suggests the scales in the CMB are largely independent of each other.
+
+Analysis performed on: 2025-03-22 16:54:51
+Number of simulations: 5
+Number of scales: 5
+Number of bins: 10
+Delay: 1

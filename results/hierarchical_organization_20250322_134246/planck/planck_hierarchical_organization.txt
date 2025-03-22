@@ -1,0 +1,17 @@
+Hierarchical Organization Test Results: Planck CMB Data
+============================================================
+
+Mean Correlation: 0.691315
+P-value: 0.000000
+Phi-Optimality: 1.000000
+Significant: True
+
+Correlations Between Hierarchical Levels:
+  Level 1 to 2: 1.000000
+  Level 2 to 3: 0.504503
+  Level 3 to 4: 0.501908
+  Level 4 to 5: 0.758849
+
+Analysis performed on: 2025-03-22 13:42:47
+Number of simulations: 1000
+Number of hierarchical levels: 5

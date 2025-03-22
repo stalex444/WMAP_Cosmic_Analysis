@@ -1,0 +1,17 @@
+Golden Ratio Significance Test Comparison: WMAP vs Planck
+============================================================
+
+WMAP Correlation: 0.434389
+WMAP P-value: 0.020000
+WMAP Phi-Optimality: 0.989140
+WMAP Significant: True
+WMAP Golden Ratio Pairs: 23
+
+Planck Correlation: 0.784633
+Planck P-value: 0.000000
+Planck Phi-Optimality: 1.000000
+Planck Significant: True
+Planck Golden Ratio Pairs: 119534
+
+Difference in Correlation: 0.350244
+Difference in Phi-Optimality: 0.010860

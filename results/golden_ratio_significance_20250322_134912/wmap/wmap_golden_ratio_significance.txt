@@ -1,0 +1,38 @@
+Golden Ratio Significance Test Results: WMAP CMB Data
+============================================================
+
+Correlation Coefficient: 0.434389
+P-value: 0.030000
+Phi-Optimality: 0.988297
+Significant: True
+
+Golden Ratio Pairs Found: 23
+
+Multipole Pairs (l, l*GR):
+  Pair 1: l1 = 13.5, l2 = 22.0 (ratio = 1.6296)
+  Pair 2: l1 = 17.5, l2 = 27.5 (ratio = 1.5714)
+  Pair 3: l1 = 40.5, l2 = 65.5 (ratio = 1.6173)
+  Pair 4: l1 = 76.0, l2 = 125.0 (ratio = 1.6447)
+  Pair 5: l1 = 87.0, l2 = 140.0 (ratio = 1.6092)
+  Pair 6: l1 = 98.5, l2 = 155.5 (ratio = 1.5787)
+  Pair 7: l1 = 140.0, l2 = 231.0 (ratio = 1.6500)
+  Pair 8: l1 = 155.5, l2 = 253.5 (ratio = 1.6302)
+  Pair 9: l1 = 172.5, l2 = 278.0 (ratio = 1.6116)
+  Pair 10: l1 = 191.0, l2 = 304.0 (ratio = 1.5916)
+  Pair 11: l1 = 210.5, l2 = 332.5 (ratio = 1.5796)
+  Pair 12: l1 = 231.0, l2 = 363.5 (ratio = 1.5736)
+  Pair 13: l1 = 253.5, l2 = 397.5 (ratio = 1.5680)
+  Pair 14: l1 = 278.0, l2 = 436.0 (ratio = 1.5683)
+  Pair 15: l1 = 304.0, l2 = 479.5 (ratio = 1.5773)
+  Pair 16: l1 = 332.5, l2 = 526.5 (ratio = 1.5835)
+  Pair 17: l1 = 363.5, l2 = 575.5 (ratio = 1.5832)
+  Pair 18: l1 = 397.5, l2 = 625.5 (ratio = 1.5736)
+  Pair 19: l1 = 436.0, l2 = 725.5 (ratio = 1.6640)
+  Pair 20: l1 = 479.5, l2 = 775.5 (ratio = 1.6173)
+  Pair 21: l1 = 526.5, l2 = 875.5 (ratio = 1.6629)
+  Pair 22: l1 = 575.5, l2 = 925.5 (ratio = 1.6082)
+  Pair 23: l1 = 725.5, l2 = 1150.5 (ratio = 1.5858)
+
+Analysis performed on: 2025-03-22 13:49:12
+Number of simulations: 100
+Maximum multipole considered: 2500

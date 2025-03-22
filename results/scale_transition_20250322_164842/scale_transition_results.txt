@@ -1,0 +1,16 @@
+Scale Transition Test Results
+==================================================
+
+WMAP analysis not performed or failed
+
+Planck analysis not performed or failed
+
+
+Execution Information
+--------------------------------------------------
+Total execution time: 0.01 seconds
+Number of simulations: 10
+Window size: 10
+Initial clusters: 3
+Smoothing applied: False
+Detrending applied: False

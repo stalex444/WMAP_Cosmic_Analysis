@@ -1,0 +1,21 @@
+Resonance Analysis Test Comparison: WMAP vs Planck
+==================================================
+
+WMAP Resonance Score: 0.000000
+WMAP P-value: 1.000000
+WMAP Phi-Optimality: 0.000000
+WMAP Significant: False
+WMAP Number of Peaks: 1
+WMAP Mean Ratio: 0.000000
+WMAP Harmonic Pattern: False
+
+Planck Resonance Score: 0.347288
+Planck P-value: 0.960000
+Planck Phi-Optimality: -0.758934
+Planck Significant: False
+Planck Number of Peaks: 11
+Planck Mean Ratio: 1.212225
+Planck Harmonic Pattern: True
+
+Difference in Resonance Score: 0.347288
+Difference in Phi-Optimality: 0.758934

@@ -1,0 +1,44 @@
+Resonance Analysis Test Results: Planck CMB Data
+==================================================
+
+Resonance Score: 0.347288
+P-value: 1.000000
+Phi-Optimality: -0.897283
+Significant: False
+
+Number of Resonance Peaks: 11
+Mean Ratio Between Peaks: 1.212225
+Standard Deviation of Ratios: 0.284083
+Harmonic Pattern Detected: True
+
+Peak Multipoles and Powers:
+  Peak 1: ℓ = 143.0, Power = 2.536960
+  Peak 2: ℓ = 167.0, Power = 3.175489
+  Peak 3: ℓ = 172.0, Power = 2.871774
+  Peak 4: ℓ = 185.0, Power = 3.753016
+  Peak 5: ℓ = 198.0, Power = 3.188047
+  Peak 6: ℓ = 232.0, Power = 3.942372
+  Peak 7: ℓ = 236.0, Power = 3.525642
+  Peak 8: ℓ = 248.0, Power = 3.471420
+  Peak 9: ℓ = 266.0, Power = 3.148696
+  Peak 10: ℓ = 522.0, Power = 1.140001
+  Peak 11: ℓ = 785.0, Power = 1.052023
+
+Ratios Between Adjacent Peaks:
+  Ratio 2/1: 1.167832
+  Ratio 3/2: 1.029940
+  Ratio 4/3: 1.075581
+  Ratio 5/4: 1.070270
+  Ratio 6/5: 1.171717
+  Ratio 7/6: 1.017241
+  Ratio 8/7: 1.050847
+  Ratio 9/8: 1.072581
+  Ratio 10/9: 1.962406
+  Ratio 11/10: 1.503831
+
+Interpretation:
+  Weak resonance pattern: The CMB power spectrum shows limited harmonic organization.
+  This suggests minimal wave-like organization in the cosmic microwave background.
+
+Analysis performed on: 2025-03-22 14:47:58
+Number of simulations: 20

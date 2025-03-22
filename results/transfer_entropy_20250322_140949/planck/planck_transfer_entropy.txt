@@ -1,0 +1,39 @@
+Transfer Entropy Test Results: Planck CMB Data
+==================================================
+
+Average Transfer Entropy: -1.475001
+P-value: 0.000000
+Phi-Optimality: 1.000000
+Significant: True
+
+Transfer Entropy Between Scales:
+  Scale 1 → Scale 2: -1.366750
+  Scale 1 → Scale 3: -1.404417
+  Scale 1 → Scale 4: -1.229966
+  Scale 1 → Scale 5: -1.861977
+  Scale 2 → Scale 1: -1.353661
+  Scale 2 → Scale 3: -1.412749
+  Scale 2 → Scale 4: -1.176515
+  Scale 2 → Scale 5: -1.801897
+  Scale 3 → Scale 1: -1.259528
+  Scale 3 → Scale 2: -1.308637
+  Scale 3 → Scale 4: -1.255354
+  Scale 3 → Scale 5: -1.883959
+  Scale 4 → Scale 1: -1.458879
+  Scale 4 → Scale 2: -1.458160
+  Scale 4 → Scale 3: -1.563659
+  Scale 4 → Scale 5: -1.864772
+  Scale 5 → Scale 1: -1.456267
+  Scale 5 → Scale 2: -1.455216
+  Scale 5 → Scale 3: -1.593904
+  Scale 5 → Scale 4: -1.333761
+
+Interpretation:
+  Low transfer entropy: Limited information flow between scales.
+  This suggests the scales in the CMB are largely independent of each other.
+
+Analysis performed on: 2025-03-22 14:09:51
+Number of simulations: 50
+Number of scales: 5
+Number of bins: 10
+Delay: 1

@@ -1,0 +1,18 @@
+Scale Transition Test Comparison: WMAP vs Planck
+==================================================
+
+WMAP Number of Transitions: 22
+WMAP P-value: 0.400000
+WMAP Phi-Optimality: 0.237054
+WMAP Significant: False
+WMAP Golden Ratio Alignment: 0.322836
+
+Planck Number of Transitions: 1475
+Planck P-value: 0.000000
+Planck Phi-Optimality: 0.838181
+Planck Significant: True
+Planck Golden Ratio Alignment: 0.379374
+
+Difference in Number of Transitions: 1453
+Difference in Phi-Optimality: 0.601127
+Difference in Golden Ratio Alignment: 0.056538

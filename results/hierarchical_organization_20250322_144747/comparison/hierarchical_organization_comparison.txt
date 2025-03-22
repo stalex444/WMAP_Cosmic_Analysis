@@ -1,0 +1,33 @@
+Hierarchical Organization Test Comparison: WMAP vs Planck
+============================================================
+
+WMAP Mean Correlation: 0.271411
+WMAP P-value: 0.550000
+WMAP Phi-Optimality: -0.207393
+WMAP Significant: False
+
+Planck Mean Correlation: 0.691315
+Planck P-value: 0.000000
+Planck Phi-Optimality: 1.000000
+Planck Significant: True
+
+Difference in Mean Correlation: 0.419904
+Difference in Phi-Optimality: 1.207393
+
+Level-by-Level Correlation Comparison:
+  Level 1 to 2:
+    WMAP: 1.000000
+    Planck: 1.000000
+    Difference: 0.000000
+  Level 2 to 3:
+    WMAP: -0.062212
+    Planck: 0.504503
+    Difference: 0.566715
+  Level 3 to 4:
+    WMAP: -0.031135
+    Planck: 0.501908
+    Difference: 0.533042
+  Level 4 to 5:
+    WMAP: 0.178990
+    Planck: 0.758849
+    Difference: 0.579859

@@ -1,0 +1,39 @@
+Scale Transition Test Results: WMAP CMB Data
+==================================================
+
+Number of Scale Transitions: 22
+P-value: 0.400000
+Phi-Optimality: 0.237054
+Significant: False
+Golden Ratio Alignment Score: 0.322836
+
+Scale Transition Points:
+  Transition 1: ℓ = 6.0
+  Transition 2: ℓ = 7.0
+  Transition 3: ℓ = 8.0
+  Transition 4: ℓ = 10.0
+  Transition 5: ℓ = 11.0
+  Transition 6: ℓ = 15.0
+  Transition 7: ℓ = 16.0
+  Transition 8: ℓ = 17.0
+  Transition 9: ℓ = 19.0
+  Transition 10: ℓ = 20.0
+  Transition 11: ℓ = 21.0
+  Transition 12: ℓ = 22.0
+  Transition 13: ℓ = 23.0
+  Transition 14: ℓ = 24.0
+  Transition 15: ℓ = 25.0
+  Transition 16: ℓ = 26.0
+  Transition 17: ℓ = 30.0
+  Transition 18: ℓ = 31.0
+  Transition 19: ℓ = 34.0
+  Transition 20: ℓ = 36.0
+  Transition 21: ℓ = 38.0
+  Transition 22: ℓ = 39.0
+
+Interpretation:
+  Weak scale transition pattern: The CMB power spectrum does not show significant scale transitions
+  beyond what would be expected by chance.
+
+Analysis performed on: 2025-03-22 14:19:02
+Number of simulations: 50

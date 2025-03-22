@@ -1,0 +1,10 @@
+Coherence Analysis Results: WMAP CMB Data
+==================================================
+
+Mean Coherence: 0.053534
+P-value: 0.900000
+Phi-Optimality: -0.919006
+Significant: False
+
+Analysis performed on: 2025-03-22 14:47:43
+Number of simulations: 20

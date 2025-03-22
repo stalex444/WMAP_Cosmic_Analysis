@@ -1,0 +1,17 @@
+GR-Specific Coherence Test Comparison: WMAP vs Planck
+==================================================
+
+WMAP Mean Coherence: 0.896430
+WMAP P-value: 0.000000
+WMAP Phi-Optimality: 0.985579
+WMAP Significant: True
+WMAP Number of GR Pairs: 23
+
+Planck Mean Coherence: 0.640095
+Planck P-value: 0.500000
+Planck Phi-Optimality: -0.009915
+Planck Significant: False
+Planck Number of GR Pairs: 50
+
+Difference in Mean Coherence: 0.256335
+Difference in Phi-Optimality: 0.995494

@@ -1,0 +1,16 @@
+Meta-Coherence Test Results: Planck CMB Data
+==================================================
+
+Meta-Coherence: 0.065679
+P-value: 1.000000
+Phi-Optimality: -0.986467
+Significant: False
+
+Interpretation:
+  Low meta-coherence: The local coherence measures show little organization.
+  This suggests the CMB power spectrum lacks multi-scale organization.
+
+Analysis performed on: 2025-03-22 14:20:46
+Number of simulations: 50
+Window size: 10
+Step size: 5

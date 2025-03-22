@@ -1,0 +1,5 @@
+WMAP Transfer Entropy Test Results:
+  Average Transfer Entropy: -0.326654
+  P-value: 0.000000
+  Phi-Optimality: 0.666210
+  Significant: True

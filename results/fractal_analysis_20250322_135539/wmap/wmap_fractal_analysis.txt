@@ -1,0 +1,15 @@
+Fractal Analysis Test Results: WMAP CMB Data
+==================================================
+
+Hurst Exponent: 0.936942
+P-value: 0.000000
+Phi-Optimality: 0.873883
+Significant: True
+
+Interpretation:
+  Persistent series (fractal behavior): H > 0.5
+  The CMB power spectrum shows long-range correlations and memory effects.
+
+Analysis performed on: 2025-03-22 13:55:40
+Number of simulations: 50
+Maximum lag: 20

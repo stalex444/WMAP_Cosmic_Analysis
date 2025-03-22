@@ -1,0 +1,22 @@
+Information Integration Test Results: WMAP CMB Data
+============================================================
+
+Mean Mutual Information: 0.000000
+P-value: 1.000000
+Phi-Optimality: -0.738904
+Significant: False
+
+Mutual Information Between Adjacent Segments:
+  Segments 1-2: 0.000000
+  Segments 2-3: 0.000000
+  Segments 3-4: 0.000000
+  Segments 4-5: 0.000000
+  Segments 5-6: 0.000000
+  Segments 6-7: 0.000000
+  Segments 7-8: 0.000000
+  Segments 8-9: 0.000000
+  Segments 9-10: 0.000000
+
+Analysis performed on: 2025-03-22 13:44:23
+Number of simulations: 1000
+Number of segments: 10

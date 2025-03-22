@@ -1,0 +1,15 @@
+Meta-Coherence Test Comparison: WMAP vs Planck
+==================================================
+
+WMAP Meta-Coherence: 0.127112
+WMAP P-value: 0.780000
+WMAP Phi-Optimality: -0.373486
+WMAP Significant: False
+
+Planck Meta-Coherence: 0.065679
+Planck P-value: 1.000000
+Planck Phi-Optimality: -0.976745
+Planck Significant: False
+
+Difference in Meta-Coherence: 0.061433
+Difference in Phi-Optimality: 0.603259

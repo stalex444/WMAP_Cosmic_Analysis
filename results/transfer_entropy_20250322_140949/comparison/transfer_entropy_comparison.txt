@@ -1,0 +1,15 @@
+Transfer Entropy Test Comparison: WMAP vs Planck
+==================================================
+
+WMAP Average Transfer Entropy: -0.075000
+WMAP P-value: 0.560000
+WMAP Phi-Optimality: 0.096875
+WMAP Significant: False
+
+Planck Average Transfer Entropy: -1.475001
+Planck P-value: 0.000000
+Planck Phi-Optimality: 1.000000
+Planck Significant: True
+
+Difference in Transfer Entropy: 1.400001
+Difference in Phi-Optimality: 0.903125

@@ -1,0 +1,17 @@
+Hierarchical Organization Test Results: WMAP CMB Data
+============================================================
+
+Mean Correlation: 0.271411
+P-value: 0.550000
+Phi-Optimality: -0.207393
+Significant: False
+
+Correlations Between Hierarchical Levels:
+  Level 1 to 2: 1.000000
+  Level 2 to 3: -0.062212
+  Level 3 to 4: -0.031135
+  Level 4 to 5: 0.178990
+
+Analysis performed on: 2025-03-22 14:47:47
+Number of simulations: 20
+Number of hierarchical levels: 5

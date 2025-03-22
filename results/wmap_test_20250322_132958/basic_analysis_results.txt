@@ -1,0 +1,6 @@
+WMAP Basic Analysis Results
+==========================
+
+Golden Ratio Correlation: 0.9582
+P-value: 0.0000
+Significant: True

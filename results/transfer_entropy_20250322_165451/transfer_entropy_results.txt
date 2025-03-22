@@ -1,0 +1,6 @@
+Transfer Entropy Test Results
+===========================
+
+WMAP Results:
+  - p-value: 0.0000
+  - phi-optimality: 0.9308

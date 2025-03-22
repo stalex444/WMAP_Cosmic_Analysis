@@ -1,0 +1,67 @@
+GR-Specific Coherence Test Results: Planck CMB Data
+==================================================
+
+Mean Coherence: 0.640095
+P-value: 0.500000
+Phi-Optimality: -0.009915
+Significant: False
+Number of Golden Ratio Pairs: 50
+
+Golden Ratio Pairs and Coherence Values:
+  Pair 1: ℓ1 = 3.0, ℓ2 = 5.0, Coherence = 0.672007
+  Pair 2: ℓ1 = 5.0, ℓ2 = 8.0, Coherence = 0.508651
+  Pair 3: ℓ1 = 6.0, ℓ2 = 10.0, Coherence = 0.486144
+  Pair 4: ℓ1 = 7.0, ℓ2 = 11.0, Coherence = 0.891867
+  Pair 5: ℓ1 = 8.0, ℓ2 = 13.0, Coherence = 0.448081
+  Pair 6: ℓ1 = 9.0, ℓ2 = 15.0, Coherence = 0.529295
+  Pair 7: ℓ1 = 10.0, ℓ2 = 16.0, Coherence = 0.104989
+  Pair 8: ℓ1 = 11.0, ℓ2 = 18.0, Coherence = 0.823046
+  Pair 9: ℓ1 = 12.0, ℓ2 = 19.0, Coherence = 0.170407
+  Pair 10: ℓ1 = 12.0, ℓ2 = 20.0, Coherence = 0.880044
+  Pair 11: ℓ1 = 13.0, ℓ2 = 21.0, Coherence = 0.365574
+  Pair 12: ℓ1 = 14.0, ℓ2 = 22.0, Coherence = 0.879085
+  Pair 13: ℓ1 = 14.0, ℓ2 = 23.0, Coherence = 0.994657
+  Pair 14: ℓ1 = 15.0, ℓ2 = 24.0, Coherence = 0.386696
+  Pair 15: ℓ1 = 15.0, ℓ2 = 25.0, Coherence = 0.291443
+  Pair 16: ℓ1 = 16.0, ℓ2 = 26.0, Coherence = 0.485715
+  Pair 17: ℓ1 = 17.0, ℓ2 = 27.0, Coherence = 0.178371
+  Pair 18: ℓ1 = 17.0, ℓ2 = 28.0, Coherence = 0.968477
+  Pair 19: ℓ1 = 18.0, ℓ2 = 29.0, Coherence = 0.998878
+  Pair 20: ℓ1 = 18.0, ℓ2 = 30.0, Coherence = 0.619294
+  Pair 21: ℓ1 = 19.0, ℓ2 = 30.0, Coherence = 0.805341
+  Pair 22: ℓ1 = 19.0, ℓ2 = 31.0, Coherence = 0.850153
+  Pair 23: ℓ1 = 20.0, ℓ2 = 32.0, Coherence = 0.702420
+  Pair 24: ℓ1 = 20.0, ℓ2 = 33.0, Coherence = 0.999967
+  Pair 25: ℓ1 = 21.0, ℓ2 = 33.0, Coherence = 0.976943
+  Pair 26: ℓ1 = 21.0, ℓ2 = 34.0, Coherence = 0.687718
+  Pair 27: ℓ1 = 21.0, ℓ2 = 35.0, Coherence = 0.194308
+  Pair 28: ℓ1 = 22.0, ℓ2 = 35.0, Coherence = 0.772870
+  Pair 29: ℓ1 = 22.0, ℓ2 = 36.0, Coherence = 0.882448
+  Pair 30: ℓ1 = 23.0, ℓ2 = 37.0, Coherence = 0.491438
+  Pair 31: ℓ1 = 23.0, ℓ2 = 38.0, Coherence = 0.959123
+  Pair 32: ℓ1 = 24.0, ℓ2 = 38.0, Coherence = 0.878604
+  Pair 33: ℓ1 = 24.0, ℓ2 = 39.0, Coherence = 0.084730
+  Pair 34: ℓ1 = 24.0, ℓ2 = 40.0, Coherence = 0.957319
+  Pair 35: ℓ1 = 25.0, ℓ2 = 40.0, Coherence = 0.923179
+  Pair 36: ℓ1 = 25.0, ℓ2 = 41.0, Coherence = 0.936521
+  Pair 37: ℓ1 = 26.0, ℓ2 = 41.0, Coherence = 0.620789
+  Pair 38: ℓ1 = 26.0, ℓ2 = 42.0, Coherence = 0.991201
+  Pair 39: ℓ1 = 26.0, ℓ2 = 43.0, Coherence = 0.501736
+  Pair 40: ℓ1 = 27.0, ℓ2 = 43.0, Coherence = 0.014131
+  Pair 41: ℓ1 = 27.0, ℓ2 = 44.0, Coherence = 0.476326
+  Pair 42: ℓ1 = 27.0, ℓ2 = 45.0, Coherence = 0.738159
+  Pair 43: ℓ1 = 28.0, ℓ2 = 44.0, Coherence = 0.911431
+  Pair 44: ℓ1 = 28.0, ℓ2 = 45.0, Coherence = 0.619445
+  Pair 45: ℓ1 = 28.0, ℓ2 = 46.0, Coherence = 0.527175
+  Pair 46: ℓ1 = 29.0, ℓ2 = 46.0, Coherence = 0.150562
+  Pair 47: ℓ1 = 29.0, ℓ2 = 47.0, Coherence = 0.907741
+  Pair 48: ℓ1 = 29.0, ℓ2 = 48.0, Coherence = 0.998750
+  Pair 49: ℓ1 = 30.0, ℓ2 = 48.0, Coherence = 0.621356
+  Pair 50: ℓ1 = 30.0, ℓ2 = 49.0, Coherence = 0.140158
+
+Interpretation:
+  Moderate GR-specific coherence: While not statistically significant, the CMB power spectrum
+  shows moderate coherence in regions related by the golden ratio.
+
+Analysis performed on: 2025-03-22 14:41:33
+Number of simulations: 20

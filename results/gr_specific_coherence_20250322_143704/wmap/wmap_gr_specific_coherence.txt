@@ -1,0 +1,40 @@
+GR-Specific Coherence Test Results: WMAP CMB Data
+==================================================
+
+Mean Coherence: 0.896430
+P-value: 0.000000
+Phi-Optimality: 0.948177
+Significant: True
+Number of Golden Ratio Pairs: 23
+
+Golden Ratio Pairs and Coherence Values:
+  Pair 1: ℓ1 = 13.5, ℓ2 = 22.0, Coherence = 0.792677
+  Pair 2: ℓ1 = 17.5, ℓ2 = 27.5, Coherence = 0.899688
+  Pair 3: ℓ1 = 40.5, ℓ2 = 65.5, Coherence = 0.780641
+  Pair 4: ℓ1 = 76.0, ℓ2 = 125.0, Coherence = 0.999487
+  Pair 5: ℓ1 = 87.0, ℓ2 = 140.0, Coherence = 0.994913
+  Pair 6: ℓ1 = 98.5, ℓ2 = 155.5, Coherence = 0.996088
+  Pair 7: ℓ1 = 140.0, ℓ2 = 231.0, Coherence = 0.664006
+  Pair 8: ℓ1 = 155.5, ℓ2 = 253.5, Coherence = 0.999775
+  Pair 9: ℓ1 = 172.5, ℓ2 = 278.0, Coherence = 0.980024
+  Pair 10: ℓ1 = 191.0, ℓ2 = 304.0, Coherence = 0.987881
+  Pair 11: ℓ1 = 210.5, ℓ2 = 332.5, Coherence = 0.948302
+  Pair 12: ℓ1 = 231.0, ℓ2 = 363.5, Coherence = 0.707393
+  Pair 13: ℓ1 = 253.5, ℓ2 = 397.5, Coherence = 0.764301
+  Pair 14: ℓ1 = 278.0, ℓ2 = 436.0, Coherence = 0.969619
+  Pair 15: ℓ1 = 304.0, ℓ2 = 479.5, Coherence = 0.984201
+  Pair 16: ℓ1 = 332.5, ℓ2 = 526.5, Coherence = 0.723581
+  Pair 17: ℓ1 = 363.5, ℓ2 = 575.5, Coherence = 0.852674
+  Pair 18: ℓ1 = 397.5, ℓ2 = 625.5, Coherence = 0.881734
+  Pair 19: ℓ1 = 436.0, ℓ2 = 725.5, Coherence = 0.936873
+  Pair 20: ℓ1 = 479.5, ℓ2 = 775.5, Coherence = 0.994176
+  Pair 21: ℓ1 = 526.5, ℓ2 = 875.5, Coherence = 0.788546
+  Pair 22: ℓ1 = 575.5, ℓ2 = 925.5, Coherence = 0.971313
+  Pair 23: ℓ1 = 725.5, ℓ2 = 1150.5, Coherence = 1.000000
+
+Interpretation:
+  Strong GR-specific coherence: The CMB power spectrum shows significant coherence
+  in regions related by the golden ratio, suggesting a fundamental organizational principle.
+
+Analysis performed on: 2025-03-22 14:37:04
+Number of simulations: 20

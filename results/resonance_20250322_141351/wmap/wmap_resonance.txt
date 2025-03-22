@@ -1,0 +1,22 @@
+Resonance Analysis Test Results: WMAP CMB Data
+==================================================
+
+Resonance Score: 0.000000
+P-value: 1.000000
+Phi-Optimality: 0.000000
+Significant: False
+
+Number of Resonance Peaks: 1
+Mean Ratio Between Peaks: 0.000000
+Standard Deviation of Ratios: 0.000000
+Harmonic Pattern Detected: False
+
+Peak Multipoles and Powers:
+  Peak 1: ℓ = 231.0, Power = 2.250419
+
+Interpretation:
+  Weak resonance pattern: The CMB power spectrum shows limited harmonic organization.
+  This suggests minimal wave-like organization in the cosmic microwave background.
+
+Analysis performed on: 2025-03-22 14:13:52
+Number of simulations: 50
