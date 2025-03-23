@@ -1,0 +1,81 @@
+/* Custom styles for WMAP Cosmic Analysis documentation */
+
+/* Improve code block appearance */
+div.highlight {
+    border-radius: 5px;
+    border: 1px solid #e1e4e5;
+}
+
+/* Improve table appearance */
+table.docutils {
+    border-radius: 5px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    margin-bottom: 24px;
+}
+
+table.docutils td, table.docutils th {
+    padding: 8px 16px;
+}
+
+/* Improve heading styles */
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 24px;
+    margin-bottom: 16px;
+    font-weight: 600;
+    color: #2c3e50;
+}
+
+/* Add a subtle background to the sidebar */
+div.sphinxsidebar {
+    background-color: #f8f9fa;
+    border-radius: 5px;
+}
+
+/* Improve note and warning boxes */
+div.note, div.warning, div.tip, div.important {
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+/* Add a subtle border to images */
+img {
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    margin: 10px 0;
+}
+
+/* Improve function signature appearance */
+dl.py.method, dl.py.function, dl.py.class {
+    background-color: #f8f9fa;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    border-left: 3px solid #2980b9;
+}
+
+/* Improve parameter list appearance */
+dl.field-list {
+    margin-left: 20px;
+}
+
+/* Improve search box appearance */
+div.sphinxsidebar #searchbox input[type="text"] {
+    border-radius: 5px;
+    border: 1px solid #e1e4e5;
+    padding: 8px;
+}
+
+/* Improve navigation links */
+div.related ul {
+    background-color: #2c3e50;
+    border-radius: 5px;
+}
+
+/* Improve footer appearance */
+div.footer {
+    background-color: #f8f9fa;
+    border-top: 1px solid #e1e4e5;
+    padding: 20px 0;
+    margin-top: 40px;
+}

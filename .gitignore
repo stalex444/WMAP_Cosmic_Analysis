@@ -1,0 +1,47 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Sphinx documentation build
+docs/build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Data files
+*.npy
+*.npz
+*.fits
+*.h5
+*.hdf5
+data/raw/
+
+# Results and logs
+results/
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
